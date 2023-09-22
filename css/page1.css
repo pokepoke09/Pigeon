@@ -21,7 +21,7 @@ body{
 }
 
 .header {
-  width: 900px;
+  width: 65%;
   background-color: black;
   box-shadow: 0px 0px 20px 20px black;
 }
@@ -104,6 +104,7 @@ h2{
   background-color: #555;
   color: red;
   text-decoration: underline;
+  width: 95%;
 }
   
 
@@ -132,6 +133,7 @@ h2{
       display: block;
       font-size: 25px;
       text-decoration: 1px double line-through gray;
+      width: 95%;
   
   }
 
